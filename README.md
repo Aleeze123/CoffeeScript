@@ -1,6 +1,6 @@
-# My CoffeeScript Project
+# My CoffeeScript☕ Project
 
-This repository contains simple **CoffeeScript** examples, including:
+This repository contains simple **CoffeeScript☕** examples, including:
 - **Hello World Program** 👋🌍
 - **Calculator** 🔢🧮
 

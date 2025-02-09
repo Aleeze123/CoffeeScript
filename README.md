@@ -1,2 +1,22 @@
-# CoffeeScript
-This repository showcases fundamental CoffeeScript examples, including:  Hello World Program 👋🌍 — A straightforward introduction to CoffeeScript with the classic "Hello, World!" output. Calculator 🔢🧮 — A simple, interactive web-based calculator capable of performing basic arithmetic operations.
+# My CoffeeScript Project
+
+This repository contains simple **CoffeeScript** examples, including:
+- **Hello World Program** 👋🌍
+- **Calculator** 🔢🧮
+
+## Table of Contents
+1. [Hello World](#hello-world) 👋🌍
+2. [Calculator](#calculator) 🔢🧮
+3. [Getting Started](#getting-started)
+
+
+---
+
+## Hello World 👋🌍
+
+The **Hello World** program is a basic example of how to print "Hello, World!" to the console using CoffeeScript.
+
+### Code:
+```coffeescript
+# hello-world.coffee
+console.log "Hello, World!"
